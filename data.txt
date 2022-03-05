@@ -1,1 +1,2 @@
 hello word
+belajar git sangatlah mudah
